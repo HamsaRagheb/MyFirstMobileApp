@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## My Snack Link
+Here’s my live preview on Snack:  
+[myFirstMobileApp on Snack](https://snack.expo.dev/@hamsa_ragheb/myfirstmobileapp)
+
 ## Get started
 
 1. Install dependencies
